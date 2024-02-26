@@ -1,5 +1,5 @@
 **Credit Score Classification**
-_________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________
 A credit score classification project involves predicting creditworthiness based on various financial factors.
 It typically includes data collection from sources like income, expenses, credit history, and demographic information.
 After preprocessing and feature engineering, machine learning models like Random Forest or Decision Trees are trained to classify individuals into different credit score categories (e.g., poor, fair, good).
